@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    color: #ff5800;
+    background-color:#2f2f2f;
+}
+
+.container {
+    text-align: center;
+}
+
+li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 30px;
+    font-weight: bold;
+}
+ul li{
+    display: inline;
+    margin-right: 44px;
+}
+
+.active {
+    color: #ff0;
+    text-decoration: underline;
+}
+
+.main{ 
+    width: 640px;
+    height: 480px;
+    margin: 0 auto;
+    padding: 25px 15px 0 15px;
+    color: #fff967;
+    background-color: #4a4a4a;
+
+}
+
+#data { }
+
+#figure { }
